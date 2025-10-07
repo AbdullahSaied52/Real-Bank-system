@@ -1,0 +1,43 @@
+﻿  bank_oop_2.cpp
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsInputValidate.h(123,16): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsInputValidate.h(127,26): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsaddnewclient.h(28,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\cls_update_client.h(42,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\cls_withdraw.h(43,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'bank_oop_2.cpp')
+  
+D:\full_stack\Bank_OOP_2\bank_oop_2\clsBankClient.h(239,1): warning C4715: 'clsBankClient::save_results': not all control paths return a value
+D:\full_stack\Bank_OOP_2\bank_oop_2\cls_bank_user.h(265,1): warning C4715: 'cls_bank_user::save_results': not all control paths return a value
+  bank_oop_2.vcxproj -> D:\full_stack\Bank_OOP_2\bank_oop_2\x64\Debug\bank_oop_2.exe
